@@ -1,4 +1,4 @@
-# TIME Event Premium v1.1
+# TIME EVENT Premium v1.2
 
 Aggiornamento reale per l'evento di sabato 10 ottobre 2026.
 
@@ -12,3 +12,11 @@ Aggiornamento reale per l'evento di sabato 10 ottobre 2026.
 
 ## Caricamento GitHub
 Estrai lo ZIP e carica tutti i file nella radice del repository, sostituendo quelli esistenti. Vercel pubblicherà automaticamente il nuovo commit.
+
+
+## Novità v1.2
+- Inserito il logo ufficiale TIME EVENT nell'header di tutte le pagine.
+- Inserito il logo ufficiale nel footer.
+- Aggiornata la denominazione visibile in TIME EVENT.
+- Logo ottimizzato per desktop e smartphone.
+- File logo: `assets/images/logo-time-event-ufficiale.png`.
