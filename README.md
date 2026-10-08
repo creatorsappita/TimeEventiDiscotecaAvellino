@@ -1,22 +1,15 @@
-# TIME EVENT Premium v1.2
+# TIME EVENT Premium v1.3
 
-Aggiornamento reale per l'evento di sabato 10 ottobre 2026.
+## Novità
+- Modulo newsletter Brevo integrato tramite iframe pubblico.
+- Pagina `newsletter.html`.
+- Sezione newsletter in homepage e pagina eventi.
+- Collegamento Newsletter nel menu e nel footer.
+- Pagina `privacy.html` in bozza da completare con i dati del titolare.
+- Double opt-in gestito da Brevo.
 
-## Dati inseriti
-- Live DJ Set
-- Laura D'Agostino
-- Ingresso €10
-- Telefono: 339 742 2326
-- Indirizzo: Via Piano Alvanella 38A, Monteforte Irpino (AV)
-- Locandina: `assets/images/evento-time-10-ottobre-2026.jpg`
+## Pubblicazione
+Estrai lo ZIP e carica tutti i file nella radice del repository GitHub, sostituendo quelli esistenti. Vercel pubblicherà automaticamente il nuovo commit.
 
-## Caricamento GitHub
-Estrai lo ZIP e carica tutti i file nella radice del repository, sostituendo quelli esistenti. Vercel pubblicherà automaticamente il nuovo commit.
-
-
-## Novità v1.2
-- Inserito il logo ufficiale TIME EVENT nell'header di tutte le pagine.
-- Inserito il logo ufficiale nel footer.
-- Aggiornata la denominazione visibile in TIME EVENT.
-- Logo ottimizzato per desktop e smartphone.
-- File logo: `assets/images/logo-time-event-ufficiale.png`.
+## Prima dell'uso ufficiale
+Completare la privacy policy con ragione sociale, sede ed email del titolare del trattamento.
