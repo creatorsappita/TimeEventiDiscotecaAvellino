@@ -1,6 +1,6 @@
 # Roadmap
-
-- Foto ufficiali del locale
-- Link social ufficiali
-- Programmazione eventi gestibile
-- Biglietteria online e QR code
+- Completare dati privacy
+- Test reale double opt-in
+- Foto ufficiali
+- Social ufficiali
+- Biglietteria e QR code
